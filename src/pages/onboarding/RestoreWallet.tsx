@@ -288,7 +288,7 @@ export const RestoreWallet = () => {
                   <YoursWalletContainer theme={theme}>
                     <WalletLogo src={pandaLogo} style={{ width: '1.25rem', margin: '0.25rem 0 0 0.1rem' }} />
                   </YoursWalletContainer>
-                  <WalletText theme={theme}>Panda</WalletText>
+                  <WalletText theme={theme}>Queen</WalletText>
                 </WalletWrapper>
               </Show>
               <Show when={wallet === 'relayx'}>
